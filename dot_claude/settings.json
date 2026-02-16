@@ -1,0 +1,36 @@
+{
+  "env": {
+    "CLAUDE_CODE_EXPERIMENTAL_AGENT_TEAMS": "1"
+  },
+  "permissions": {
+    "allow": [
+      "Bash(./.venv/bin/ruff check:*)",
+      "Read(**)",
+      "Bash(docker network ls:*)",
+      "Bash(docker network inspect:*)"
+    ]
+  },
+  "enabledPlugins": {
+    "frontend-design@claude-plugins-official": true,
+    "github@claude-plugins-official": true,
+    "code-simplifier@claude-plugins-official": true,
+    "commit-commands@claude-plugins-official": true,
+    "typescript-lsp@claude-plugins-official": true,
+    "security-guidance@claude-plugins-official": true,
+    "pr-review-toolkit@claude-plugins-official": true,
+    "explanatory-output-style@claude-plugins-official": true,
+    "learning-output-style@claude-plugins-official": true,
+    "sentry@claude-plugins-official": true,
+    "posthog@claude-plugins-official": true,
+    "example-skills@anthropic-agent-skills": true,
+    "laravel-boost@claude-plugins-official": true,
+    "code-review@claude-plugins-official": true,
+    "feature-dev@claude-plugins-official": true,
+    "ralph-loop@claude-plugins-official": true,
+    "superpowers@claude-plugins-official": true,
+    "php-lsp@claude-plugins-official": true,
+    "claude-md-management@claude-plugins-official": true,
+    "scheduler@claude-scheduler": true
+  },
+  "model": "opus"
+}

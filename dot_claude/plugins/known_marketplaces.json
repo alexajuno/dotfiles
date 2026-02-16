@@ -1,0 +1,26 @@
+{
+  "claude-plugins-official": {
+    "source": {
+      "source": "github",
+      "repo": "anthropics/claude-plugins-official"
+    },
+    "installLocation": "/home/ajuno/.claude/plugins/marketplaces/claude-plugins-official",
+    "lastUpdated": "2026-02-16T10:39:45.639Z"
+  },
+  "anthropic-agent-skills": {
+    "source": {
+      "source": "github",
+      "repo": "anthropics/skills"
+    },
+    "installLocation": "/home/ajuno/.claude/plugins/marketplaces/anthropic-agent-skills",
+    "lastUpdated": "2026-02-03T02:37:44.242Z"
+  },
+  "claude-scheduler": {
+    "source": {
+      "source": "github",
+      "repo": "jshchnz/claude-code-scheduler"
+    },
+    "installLocation": "/home/ajuno/.claude/plugins/marketplaces/claude-scheduler",
+    "lastUpdated": "2026-02-08T14:01:14.101Z"
+  }
+}

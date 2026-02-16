@@ -1,0 +1,20 @@
+# Dependencies
+node_modules/
+
+# Build cache
+.vite/
+
+# OS files
+.DS_Store
+
+# Test coverage
+coverage/
+
+# Logs
+*.log
+
+# Temp files
+*.tmp
+
+# Local test scripts (keep as dev utilities, not tracked)
+test-worktrees/

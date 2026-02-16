@@ -1,0 +1,7 @@
+# Auth tokens and backups
+.claude.json
+.claude.json.backup.*
+
+# Plugin cache (generated)
+.claude/plugins/cache
+.claude/plugins/install-counts-cache.json

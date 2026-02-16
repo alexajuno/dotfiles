@@ -1,0 +1,205 @@
+{
+  "version": 2,
+  "plugins": {
+    "frontend-design@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "/home/ajuno/.claude/plugins/cache/claude-plugins-official/frontend-design/2cd88e7947b7",
+        "version": "2cd88e7947b7",
+        "installedAt": "2026-02-03T02:33:05.406Z",
+        "lastUpdated": "2026-02-07T10:16:49.059Z",
+        "gitCommitSha": "27d2b86d72da27c64585150857cee8472ad47abb"
+      }
+    ],
+    "github@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "/home/ajuno/.claude/plugins/cache/claude-plugins-official/github/2cd88e7947b7",
+        "version": "2cd88e7947b7",
+        "installedAt": "2026-02-03T02:33:16.878Z",
+        "lastUpdated": "2026-02-07T10:16:49.115Z",
+        "gitCommitSha": "27d2b86d72da27c64585150857cee8472ad47abb"
+      }
+    ],
+    "code-simplifier@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "/home/ajuno/.claude/plugins/cache/claude-plugins-official/code-simplifier/1.0.0",
+        "version": "1.0.0",
+        "installedAt": "2026-02-03T02:33:25.234Z",
+        "lastUpdated": "2026-02-03T02:33:25.234Z",
+        "gitCommitSha": "27d2b86d72da27c64585150857cee8472ad47abb"
+      }
+    ],
+    "commit-commands@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "/home/ajuno/.claude/plugins/cache/claude-plugins-official/commit-commands/2cd88e7947b7",
+        "version": "2cd88e7947b7",
+        "installedAt": "2026-02-03T02:33:34.091Z",
+        "lastUpdated": "2026-02-07T10:16:49.120Z",
+        "gitCommitSha": "27d2b86d72da27c64585150857cee8472ad47abb"
+      }
+    ],
+    "typescript-lsp@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "/home/ajuno/.claude/plugins/cache/claude-plugins-official/typescript-lsp/1.0.0",
+        "version": "1.0.0",
+        "installedAt": "2026-02-03T02:33:40.419Z",
+        "lastUpdated": "2026-02-03T02:33:40.419Z",
+        "gitCommitSha": "27d2b86d72da27c64585150857cee8472ad47abb"
+      }
+    ],
+    "security-guidance@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "/home/ajuno/.claude/plugins/cache/claude-plugins-official/security-guidance/2cd88e7947b7",
+        "version": "2cd88e7947b7",
+        "installedAt": "2026-02-03T02:33:46.558Z",
+        "lastUpdated": "2026-02-07T10:16:49.108Z",
+        "gitCommitSha": "27d2b86d72da27c64585150857cee8472ad47abb"
+      }
+    ],
+    "pr-review-toolkit@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "/home/ajuno/.claude/plugins/cache/claude-plugins-official/pr-review-toolkit/2cd88e7947b7",
+        "version": "2cd88e7947b7",
+        "installedAt": "2026-02-03T02:33:56.382Z",
+        "lastUpdated": "2026-02-07T10:16:49.077Z",
+        "gitCommitSha": "27d2b86d72da27c64585150857cee8472ad47abb"
+      }
+    ],
+    "explanatory-output-style@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "/home/ajuno/.claude/plugins/cache/claude-plugins-official/explanatory-output-style/2cd88e7947b7",
+        "version": "2cd88e7947b7",
+        "installedAt": "2026-02-03T02:34:17.701Z",
+        "lastUpdated": "2026-02-07T10:16:49.092Z",
+        "gitCommitSha": "27d2b86d72da27c64585150857cee8472ad47abb"
+      }
+    ],
+    "learning-output-style@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "/home/ajuno/.claude/plugins/cache/claude-plugins-official/learning-output-style/2cd88e7947b7",
+        "version": "2cd88e7947b7",
+        "installedAt": "2026-02-03T02:34:30.614Z",
+        "lastUpdated": "2026-02-07T10:16:49.099Z",
+        "gitCommitSha": "27d2b86d72da27c64585150857cee8472ad47abb"
+      }
+    ],
+    "sentry@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "/home/ajuno/.claude/plugins/cache/claude-plugins-official/sentry/1.0.0",
+        "version": "1.0.0",
+        "installedAt": "2026-02-03T02:34:45.194Z",
+        "lastUpdated": "2026-02-03T02:34:45.194Z",
+        "gitCommitSha": "d237d4c314e9066689c401a3d61dd3bbfbb7a209"
+      }
+    ],
+    "posthog@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "/home/ajuno/.claude/plugins/cache/claude-plugins-official/posthog/1.0.0",
+        "version": "1.0.0",
+        "installedAt": "2026-02-03T02:35:08.704Z",
+        "lastUpdated": "2026-02-03T02:35:08.704Z",
+        "gitCommitSha": "e565d8a53ee57a4a76ca68323b20c3daea205a19"
+      }
+    ],
+    "example-skills@anthropic-agent-skills": [
+      {
+        "scope": "user",
+        "installPath": "/home/ajuno/.claude/plugins/cache/anthropic-agent-skills/example-skills/69c0b1a06741",
+        "version": "69c0b1a06741",
+        "installedAt": "2026-02-03T02:37:55.202Z",
+        "lastUpdated": "2026-02-03T02:37:55.202Z",
+        "gitCommitSha": "69c0b1a0674149f27b61b2635f935524b6add202"
+      }
+    ],
+    "laravel-boost@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "/home/ajuno/.claude/plugins/cache/claude-plugins-official/laravel-boost/2cd88e7947b7",
+        "version": "2cd88e7947b7",
+        "installedAt": "2026-02-06T08:59:23.823Z",
+        "lastUpdated": "2026-02-07T10:16:49.124Z",
+        "gitCommitSha": "236752ad9ab36029b648bfd94707944760242768"
+      }
+    ],
+    "code-review@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "/home/ajuno/.claude/plugins/cache/claude-plugins-official/code-review/2cd88e7947b7",
+        "version": "2cd88e7947b7",
+        "installedAt": "2026-02-06T10:24:20.487Z",
+        "lastUpdated": "2026-02-07T10:16:49.104Z",
+        "gitCommitSha": "236752ad9ab36029b648bfd94707944760242768"
+      }
+    ],
+    "feature-dev@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "/home/ajuno/.claude/plugins/cache/claude-plugins-official/feature-dev/2cd88e7947b7",
+        "version": "2cd88e7947b7",
+        "installedAt": "2026-02-06T10:24:20.501Z",
+        "lastUpdated": "2026-02-07T10:16:49.070Z",
+        "gitCommitSha": "236752ad9ab36029b648bfd94707944760242768"
+      }
+    ],
+    "ralph-loop@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "/home/ajuno/.claude/plugins/cache/claude-plugins-official/ralph-loop/2cd88e7947b7",
+        "version": "2cd88e7947b7",
+        "installedAt": "2026-02-06T10:24:20.509Z",
+        "lastUpdated": "2026-02-07T10:16:49.087Z",
+        "gitCommitSha": "236752ad9ab36029b648bfd94707944760242768"
+      }
+    ],
+    "superpowers@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "/home/ajuno/.claude/plugins/cache/claude-plugins-official/superpowers/4.3.0",
+        "version": "4.3.0",
+        "installedAt": "2026-02-06T10:24:21.836Z",
+        "lastUpdated": "2026-02-13T00:12:40.497Z",
+        "gitCommitSha": "a98c5dfc9de0df5318f4980d91d24780a566ee60"
+      }
+    ],
+    "php-lsp@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "/home/ajuno/.claude/plugins/cache/claude-plugins-official/php-lsp/1.0.0",
+        "version": "1.0.0",
+        "installedAt": "2026-02-06T10:24:21.846Z",
+        "lastUpdated": "2026-02-06T10:24:21.846Z",
+        "gitCommitSha": "236752ad9ab36029b648bfd94707944760242768"
+      }
+    ],
+    "claude-md-management@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "/home/ajuno/.claude/plugins/cache/claude-plugins-official/claude-md-management/1.0.0",
+        "version": "1.0.0",
+        "installedAt": "2026-02-08T12:40:01.425Z",
+        "lastUpdated": "2026-02-08T12:40:01.425Z",
+        "gitCommitSha": "2cd88e7947b7382e045666abee790c7f55f669f3"
+      }
+    ],
+    "scheduler@claude-scheduler": [
+      {
+        "scope": "user",
+        "installPath": "/home/ajuno/.claude/plugins/cache/claude-scheduler/scheduler/0.2.0",
+        "version": "0.2.0",
+        "installedAt": "2026-02-08T14:01:23.360Z",
+        "lastUpdated": "2026-02-08T14:01:23.360Z",
+        "gitCommitSha": "f44464eacf7f159407aec0e7fe83a4d6f9d4e026"
+      }
+    ]
+  }
+}
